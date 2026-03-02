@@ -122,9 +122,13 @@ Una feature è completa quando:
 ## 📚 Documentazione
 
 Consulta la cartella `Docs/` per:
-- **[NOTES.md](Docs/NOTES.md)**: Idee tester, bug, priorità
-- **[ROADMAP.md](Docs/ROADMAP.md)**: Roadmap a 3 step (Giocabile → Divertente → Gioco)
-- **[TESTCASES.md](Docs/TESTCASES.md)**: Test base da eseguire ogni build
+- **[SETUP.md](Docs/SETUP.md)**: 📘 Guida completa setup Visual Studio + Unreal Engine
+- **[ROADMAP.md](Docs/ROADMAP.md)**: 🗺️ Roadmap a 3 step (Giocabile → Divertente → Gioco)
+- **[NOTES.md](Docs/NOTES.md)**: 📝 Idee tester, bug, priorità
+- **[TESTCASES.md](Docs/TESTCASES.md)**: ✅ Test base da eseguire ogni build
+- **[BEST_PRACTICES.md](Docs/BEST_PRACTICES.md)**: 🌟 Standard di codice e best practices
+- **[QUICKREF.md](Docs/QUICKREF.md)**: ⚡ Quick reference guide
+- **[CONTRIBUTING.md](Docs/CONTRIBUTING.md)**: 🤝 Guida per contribuire al progetto
 
 ---
 
